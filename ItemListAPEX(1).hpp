@@ -5,16 +5,16 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Headgear
 	///////////////////////////////////////////////////////////////////////////////
-	class H_Beret_gen_F              				{ quality = 2; price = 12; };
+	//class H_Beret_gen_F              				{ quality = 2; price = 12; };
 	class H_Booniehat_tna_F          				{ quality = 1; price = 4; };
-	class H_Cap_blk_Syndikat_F       				{ quality = 1; price = 6; };
-	class H_Cap_grn_Syndikat_F       				{ quality = 1; price = 6; };
+	class H_Cap_blk_Syndikat_F       				{ quality = 1; price = 200; };
+	class H_Cap_grn_Syndikat_F       				{ quality = 1; price = 200; };
 	class H_Cap_oli_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_Cap_tan_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_FakeHeadgear_Syndikat_F  				{ quality = 1; price = 6; };
-	class H_HelmetB_Enh_tna_F        				{ quality = 4; price = 100; };
+	class H_HelmetB_Enh_tna_F        				{ quality = 4; price = 300; };
 	class H_HelmetB_Light_tna_F      				{ quality = 2; price = 20; };
-	class H_HelmetB_TI_tna_F          				{ quality = 4; price = 100; };
+	class H_HelmetB_TI_tna_F          				{ quality = 4; price = 300; };
 	class H_HelmetB_tna_F            				{ quality = 3; price = 50; };
 	class H_HelmetCrew_O_ghex_F      				{ quality = 3; price = 75; };
 	class H_HelmetLeaderO_ghex_F     				{ quality = 5; price = 175; };
